@@ -20,3 +20,13 @@ Boolean Expression
 ------
 
 A'B'C + AB'C' + ABC
+
+Principle Scheme
+------
+
+<img src="https://github.com/vorobyovvitaliy/Logical-Circuits/blob/master/PrincipalScheme.png">
+
+Functional Scheme
+------
+
+<img src="https://github.com/vorobyovvitaliy/Logical-Circuits/blob/master/FunctionalScheme.png">
