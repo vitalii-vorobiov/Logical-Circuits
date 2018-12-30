@@ -24,7 +24,7 @@ A'B'C + AB'C' + ABC = B'(A'C + AC') + ABC
 Principle Scheme
 ------
 
-<img src="https://github.com/vorobyovvitaliy/Logical-Circuits/blob/master/PrincipalScheme.png">
+<img src="https://github.com/vorobyovvitaliy/Logical-Circuits/blob/master/PrincipleScheme.png">
 
 Functional Scheme
 ------
