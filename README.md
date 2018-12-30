@@ -34,4 +34,4 @@ Functional Scheme
 Testing Video
 ------
 
-[![Testing Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/D4BZn3lRx5I)
+[![Testing Video](https://github.com/vorobyovvitaliy/Logical-Circuits/blob/master/TestingVideo.png)](https://youtu.be/D4BZn3lRx5I)
