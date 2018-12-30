@@ -30,3 +30,8 @@ Functional Scheme
 ------
 
 <img src="https://github.com/vorobyovvitaliy/Logical-Circuits/blob/master/FunctionalScheme.png">
+
+Testing Video
+------
+
+<iframe width="854" height="480" src="https://youtu.be/D4BZn3lRx5I" frameborder="0" allowfullscreen></iframe>
