@@ -19,7 +19,7 @@ Truth Table
 Boolean Expression
 ------
 
-A'B'C + AB'C' + ABC
+A'B'C + AB'C' + ABC = B'(A'C + AC') + ABC
 
 Principle Scheme
 ------
