@@ -34,4 +34,4 @@ Functional Scheme
 Testing Video
 ------
 
-<iframe width="1191" height="670" src="https://www.youtube.com/embed/D4BZn3lRx5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Testing Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/D4BZn3lRx5I)
