@@ -4,6 +4,7 @@ The task was to create a scheme that can reproduce boolean expression from the t
 
 Truth Table
 ------
+'''
 ┌───┬───┬───┬───┬───┬───┬───┬───┬───┐
 │ A │ 0 │ 0 │ 0 │ 0 │ 1 │ 1 │ 1 | 1 |
 ├───┼───┼───┼───┼───┼───┼───┼───┼───┤
@@ -13,6 +14,7 @@ Truth Table
 ├───┼───┼───┼───┼───┼───┼───┼───┼───┤
 │   │ 0 | 1 │ 0 │ 0 │ 1 │ 0 │ 0 | 1 |
 └───┴───┴───┴───┴───────────────────┘
+'''
 
 Boolean Expression
 ------
