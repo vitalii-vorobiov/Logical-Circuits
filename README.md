@@ -19,4 +19,4 @@ Truth Table
 Boolean Expression
 ------
 
-&Amacr;BC + ABC + ABC
+&Amacr;&Bmacr;C + A&Bmacr;&Cmacr; + ABC
