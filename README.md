@@ -1,6 +1,6 @@
 # Logical-Circuits
 
-The task was to create a scheme that can reproduce boolean expression from the truth table
+The task was to create a scheme that can reproduce boolean expression from the truth table. Used only NAND IC (74HC132N)
 
 Truth Table
 ------
